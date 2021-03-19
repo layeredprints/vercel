@@ -1,0 +1,5 @@
+@import 'react-datepicker/dist/react-datepicker.css';
+
+.react-datepicker-popper[data-placement^=bottom] {
+  margin-top: -1rem;
+}

@@ -1,0 +1,37 @@
+.c-dropdown__select {
+  min-width: 180px;
+  > div {
+    padding: 1rem 1.5rem;
+    border-radius: 999px;
+    border-color: rgb(156, 163, 175);
+    &:focus {
+      border-color: rgb(47, 173, 214);
+    }
+    > div {
+      padding: 0;
+      max-height: 24px;
+      > div {
+        padding: 0;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+.css-26l3qy-menu {
+  border-radius: 0 !important;
+  border: none;
+  padding: 0 !important;
+  > div {
+    padding: 0.8rem !important;
+    width: 100%;
+    max-height: 100px !important;
+    > div {
+      margin-bottom: 0.4rem !important;
+      padding: 0.2rem !important;
+      &:hover {
+        cursor: pointer !important;
+      }
+    }
+  }
+}

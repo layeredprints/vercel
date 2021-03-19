@@ -1,0 +1,50 @@
+{
+  "name": "ballistix-book-a-dev",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "formik": "^2.2.6",
+    "html-to-react": "^1.4.5",
+    "html-to-text": "^7.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "next": "10.0.8",
+    "react": "17.0.1",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "17.0.1",
+    "react-inlinesvg": "^2.2.2",
+    "react-render-html": "^0.6.0",
+    "react-select": "^4.2.1",
+    "react-tippy": "^1.4.0",
+    "sass": "^1.32.8",
+    "tailwindcss": "^2.0.3",
+    "tailwindcss-filters": "^3.0.0",
+    "validator": "^13.5.2",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.11",
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^14.14.33",
+    "@types/react": "^17.0.3",
+    "@types/react-datepicker": "^3.1.7",
+    "@types/react-select": "^4.0.13",
+    "@typescript-eslint/eslint-plugin": "^4.17.0",
+    "@typescript-eslint/parser": "^4.17.0",
+    "autoprefixer": "^10.2.5",
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "postcss": "^8.2.8",
+    "typescript": "^4.2.3"
+  }
+}
